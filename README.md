@@ -1,3 +1,8 @@
+**Get Horovod**
+
+`pip install horovod`
+
+
 **How to run**
 
 Assuming you have 16 GPUs on your machine you can run the test code as 
